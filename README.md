@@ -12,4 +12,4 @@ A [Ballest](https://store.steampowered.com/app/2456500/Ballest_of_Them_All/) cos
 
 ## Dependencies
 
-- [cosmetic-kit](https://github.com/nickelc/ballest-plugin-manager) (Ballest plugin)
+- [cosmetic-kit](https://github.com/AnythingGoes-ballest/ballest-cosmetic-kit) (Ballest plugin)
