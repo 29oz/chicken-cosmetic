@@ -2,7 +2,7 @@
 name = "Chicken Ball"
 version = "1.0.0"
 author = "pulsion"
-description = "A voxel chicken running inside a clear ball with walk and idle animations."
+description = "Play Ballest as the chicken from Crossy Road!"
 min_host = "0.16.0"
 dependencies = ["cosmetic-kit"]
 
