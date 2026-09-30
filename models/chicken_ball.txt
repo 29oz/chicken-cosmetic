@@ -1,0 +1,4 @@
+# A chicken running inside a clear ball: a voxel-style 3D model (chicken.glb) with walk and idle animations.
+# It faces where the ball goes, walks faster as the ball speeds up, and idles while the ball is still.
+group chicken travel
+mesh chicken.glb size=80 at=0,0,-45 anim=walk rate=0.6 run=0.1 idle=idle
