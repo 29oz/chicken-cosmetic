@@ -1,6 +1,6 @@
 # Chicken Ball
 
-A [Ballest](https://store.steampowered.com/app/2456500/Ballest_of_Them_All/) cosmetic plugin that puts the Crossy Road chicken inside your ball.
+A [Ballest](https://store.steampowered.com/app/3339810/Ballest_of_Them_All/) cosmetic plugin that puts the Crossy Road chicken inside your ball.
 
 ![Preview](chicken_bubble_preview.png)
 
