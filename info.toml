@@ -1,6 +1,6 @@
 [meta]
 name = "Chicken Ball"
-version = "1.0.0"
+version = "1.0.1"
 author = "pulsion"
 description = "Play Ballest as the chicken from Crossy Road!"
 min_host = "0.16.0"
@@ -8,4 +8,4 @@ dependencies = ["cosmetic-kit"]
 
 [script]
 files = ["main.as"]
-assets = ["models/*.txt", "models/*.glb", "chicken_ball_preview.png"]
+assets = ["models/*.txt", "models/*.glb", "icon.png"]
